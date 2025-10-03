@@ -1,12 +1,7 @@
 # README.md
-From **🐬Daxya🐬** for **you**:
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,bash,neovim,vim,git,github,docker,py,lua,rust,js,html,css,md,obsidian&perline=8)](https://skillicons.dev)
 
-```brainfuck
-Hey there! I know that this list is so trite, but...
-I love old computer games, I want to become a programmer, and though Ive been interested in it for a long time...
-But in fact Ive been doing this seriously for only two years, Ive tried Java, C#, Lua.
-I 50/50 well know HTML&CSS.⚙️
+---
+[dat404.github.io](https://dat404.github.io/howtocommunicatewithorca/)
 
-I dont want to be a typical dude who enjoys an increased level of abstraction.
-Choosing python as the first programming language is a mistake on the way to the "iron level".🚀
-```
+simple amateur. The main motto: programming is an art, and everything else is just a consequence. ◕ ω ◕
